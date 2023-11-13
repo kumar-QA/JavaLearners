@@ -1,3 +1,4 @@
+package Basic;
 
 public class DefaultValues {
 	static int a;
