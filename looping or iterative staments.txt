@@ -1,0 +1,60 @@
+looping or iterative staments
+-----------------------------
+same operation we are performing again and again is called as "iterative staments"
+
+types if iterative statments
+----------------------------
+while loop
+do-while loop
+for loop
+for each loop
+
+while loop syntax:
+------------------
+ while(condition){
+   //logic
+   //printing statments;
+ }
+
+while loop internal function
+------------------------
+
+step 1: condition is true step2  condition is false step 4
+
+step 2: printing the statments
+
+step 3: condition verifying 
+
+step 4 come out the loop
+
+
+               int no=0;
+		while(no<10) {
+			System.out.println(no);
+			no++;
+		}
+
+
+1 iteration----no=0
+------------
+   1.0<10
+   2.printing value is 0
+      no=0+1
+      no=1
+
+2 iteration----no=1
+-------------------
+
+  1.1<10
+  2.printing value is 1
+      no=1+1
+       no=2
+
+3 iteration----no=2
+--------------------
+  1.2<10
+  2.printing value is 2
+      no=2+1
+       no=3 
+
+
